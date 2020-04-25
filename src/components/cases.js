@@ -6,7 +6,7 @@ const caseStudies = [
   {
     id: 1,
     subtitle: "Peugeot Cycle",
-    title: "La mobilité a taille réduite en ville",
+    title: "La mobilité à taille réduite en ville",
     img: "peugeot-min",
     link: "https://carbone-06.netlify.com/ "
   },
@@ -20,7 +20,7 @@ const caseStudies = [
   {
     id: 3,
     subtitle: "Lost in chatelet",
-    title: "Le labyrinthe a tout épreuve",
+    title: "Le labyrinthe à toute épreuve",
     img: "chatelet-min",
     link: "https://thirsty-murdock-50044a.netlify.com/"
   }
