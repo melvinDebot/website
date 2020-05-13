@@ -5,22 +5,22 @@ import { ReactComponent as CasesPrev } from "../assets/arrow-left.svg";
 const caseStudies = [
   {
     id: 1,
-    subtitle: "Peugeot Cycle",
-    title: "La mobilité à taille réduite en ville",
-    img: "peugeot-min",
-    link: "https://carbone-06.netlify.com/ "
+    subtitle: "LSC",
+    title: "The association of the second chance to help the person",
+    img: "logo-lsc",
+    link: "https://www.association-lsc.com "
   },
   {
     id: 2,
-    subtitle: "Toto",
-    title: "Les toilettes de luxes à petits prix",
-    img: "toto-min",
-    link:"https://toto-fr.netlify.com"
+    subtitle: "Old Portfolio",
+    title: "My first portfolio ",
+    img: "logo-portfolio",
+    link:"https://melvin-debot.netlify.app/"
   },
   {
     id: 3,
     subtitle: "Lost in chatelet",
-    title: "Le labyrinthe à toute épreuve",
+    title: "The crazy labyrinth",
     img: "chatelet-min",
     link: "https://thirsty-murdock-50044a.netlify.com/"
   }

@@ -17,7 +17,7 @@ const Navigation = () => {
               </li>
               <li>
 
-                  <a href="https://www.linkedin.com/in/melvin-debot-b22078173/" target="blank">Linkeind</a>
+                  <a href="https://www.linkedin.com/in/melvin-debot-b22078173/" target="blank">Linkedin</a>
               </li>
             </ul>
           </div>
@@ -38,18 +38,13 @@ const Navigation = () => {
                 </li>
               </ul>
               <ul className='nav-info'>
-                <li className='nav-info-label'>Headquarter</li>
-                <li>73 A rue jean jaures</li>
-                <li>77270 Villeparisis</li>
-                <li>French</li>
+                <li className='nav-info-label'>Info</li>
+                <li> I'm currently a 2nd year student at Hetic and I'm looking for an internship as a front-end developer.</li>
+
               </ul>
               <ul className='nav-info'>
                 <li className='nav-info-label'>Phone</li>
                 <li>07 62 88 60 22</li>
-              </ul>
-              <ul className='nav-info'>
-                <li className='nav-info-label'>Legal</li>
-                <li>Privacy & Cookies</li>
               </ul>
             </div>
           </div>
